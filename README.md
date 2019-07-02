@@ -1,1 +1,1 @@
-# BurgerBuilder made follow with React following a Udemy Tutorial
+# Burger Builder made with React following a Udemy Tutorial
